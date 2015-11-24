@@ -1,0 +1,6 @@
+gom 'github.com/robfig/config'
+gom 'github.com/Sirupsen/logrus'
+gom 'github.com/jinzhu/gorm'
+gom 'github.com/mattn/go-sqlite3'
+gom 'github.com/gin-gonic/gin'
+gom 'github.com/fvbock/endless'

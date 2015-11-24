@@ -1,0 +1,8 @@
+.idea/
+*.iml
+**/.DS_Store
+Godeps/Readme
+Godeps/_workspace
+.vendor
+_vendor
+gin-bin
